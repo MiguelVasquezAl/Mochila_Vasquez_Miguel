@@ -1,5 +1,7 @@
 # Cheatsheet de Comandos Git
 
+# Luis Miguel Vasquez Alvarez
+
 A continuación se muestra una lista de los comandos Git más utilizados hasta el momento, junto con una explicación de su sintaxis y funcionalidad.
 
 ## Comandos para crear y configurar repositorios
