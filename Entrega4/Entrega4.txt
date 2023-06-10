@@ -7,3 +7,5 @@
 Si tengo más de una mpaquina virtual instalda, y una se rompe, ¿esto afecta a las demás?¿por qué?
 -No, porque cada una utiliza recursos independientes o aislados.
 
+finalizando el trabajo.
+
